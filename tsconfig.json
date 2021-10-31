@@ -1,0 +1,14 @@
+{
+    "exclude": [ "node_modules" ],
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "ES2018",
+        "strict": true, 
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "dist"
+    }
+}
