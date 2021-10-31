@@ -1,2 +1,0 @@
-# emailservice
-Simple email service
